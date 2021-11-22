@@ -1,5 +1,5 @@
 ---
-active: falses
+
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -28,11 +28,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Python
     tag: Deep Learning
-  - name: Other
+  - name: R
+    tag: R
+  - name: MySQL
     tag: Demo
-
+    
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
