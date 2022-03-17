@@ -29,9 +29,9 @@ education:
   - course: M.Sc in Data Analytics
     institution: Technical University Of Shannon
     year: Jan 2022
-  - course: B.Tech in MEchanical Engineering
+  - course: B.Tech in Mechanical Engineering
     institution: M.G University,India
-    year: 2009
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

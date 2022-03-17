@@ -22,23 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Planning Enginner
+  - title: Junior Planner
     company: Wood Blackcat PLC
     company_url: 'http://www.amec-blackcat.com/'
-    company_logo: wood
+    company_logo: 
     location: Ras Laffan, Qatar
     date_start: '2019-05-01'
-    date_end: '2020-12-02'
+    date_end: '2020-11-01'
     description: |2-
         Responsibilities include:
         
-        * Detailed planning of jobs with the help of supporting documents like operation's ICC(isolations), Isometrics,equipment or related drawings and site visit.
-        * Analyse and update on bad actor list for quarterly reliability meeting & prepare library plans for recurring jobs
-        * Creation of material Purchase Request (PR) & service PR in SAP to capture planned cost in work order and Coordinates with third party contractors & services on requirements.
-        * Hazard and Risk identification of activities and coordinate with Operations, Safety and Execution dept for mitigation.
+        * Generate weekly KPI report for compliance requirements..
+        * •	Creation of material and service purchase request in SAP, capture planned cost in work order and coordinate with third party contractors and services on requirements.
         * Ensure the work is completed and close the permit and Work Order in SAP and E Permit System.
-        * Generate weekly KPI report for compliance.
-  - title: Mechanical Site Engineer
+        * Hazard and Risk identification of activities and coordinate with Operations, Safety and Execution dept for mitigation.
+        * Implemented a permit tracking system in Excel using macros to pull data from the E-permit system to track permit approval status and notify on pending permits for upcoming jobs.
+        * Developed an automated dashboard to monitor daily man-hour for 350 employees and analyse idle hours in site, the system helped in tracking discrepancies in time sheet filling and identifying bottlenecks. Around 5,250 Hrs approximately 6% of the total man-hour was saved in the first month of implementing the system.
+        
+        
+        
+  - title: Site Engineer
     company: Madian L.L.C
     company_url: 'http://www.madinagulf.com/'
     company_logo: 
@@ -53,6 +56,24 @@ experience:
         * Managing on site the team and third-party sub-contractors ensuring they complete tasks on time and safely to required standards.
         * To allocate work and completion in accordance with the permit system, Providing an element of safety.
         * Ensuring relevant spares are sourced and reported in a timely manner to minimise disruption. Maintain effective Health and Safety systems, including completion of risk assessments and method statements and tool box talks.
+
+  - title: Business Development Executive
+    company: Al Tawfuq printing equip & paper trading 
+    company_url: 'http://www.madinagulf.com/'
+    company_logo: 
+    location: Sharjah, UAE
+    date_start: '2018-01-01'
+    date_end: '2019-02-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Coordinated events, meetings, appointments, and conferences through customer engagement
+        * Establishing and maintaining effective relationships with existing customers via email, phone, and in-person.
+        * Conducting market research to identify new business development opportunities.
+        * Introduced new product range to the catalogue based on customer feedback.
+        * Organised and managed the company presence in the 2018 Paper World Middle East held in Dubai.
+        * Initiated a digital marketing champion to increase the company’s online presence.
+
         
   - title: Junior Planner
     company: Amec Blackcat L.L.C
@@ -64,10 +85,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Plan the activities based on SAP approved notifications, prepare the Work Scope & work Package
-        * Prepare the Method Statement, Identify the required spares after the Material Evaluation with help of P&ID, Isometric & Piping Class and reserve the materials in SAP.
-        * Prepare the JHA(Job Hazard Analysis) by visiting site and identifying hazards, conduct risk assessment with RAM matrix and put control measures to reduce the risk of the activities to as Low as possible.
-        * Prepare and maintain all Permit to Work documents, Safety Certificate. Meet with the client for additional approvals depending on the risk rating & Hand over to supervisors base on weekly Look ahead for permit application.
+        * Plan the activities based on SAP approved notifications, prepare the work Scope & work package.
+        * Prepare the Method Statement and reservations of materials in SAP.
+        * Job hazard analysis through visiting site and identifying hazards, conduct risk assessment and put control measures in place to minimize risk.
+        * Prepare and maintain all permit to work documents, safety certificates.
+
         
         
   - title: Junior Site Engineer
@@ -80,10 +102,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Supervised the Fabrication of spools, Bends, reducer & Erection of Pipelines and Pump House as per the P&IDs and Isometric drawings.
-        * Ensuring the qualities and standards (API) are being followed & implementing safety practices on site.
-        * Preparing for Inspection of Hydro/ Pneumatic Testing & NDT Testing on pipelines & static equipment’s.
-        * Preparation of test report and evaluate the Daily, Weekly & Monthly progress and generate the Report and communicate to Field Engineer.
+        * Supervised the erection of Pipelines and Pump House as per the P&IDs and Isometric drawings.
+        * Coordinate site activities ensuring the qualities and standards are being followed & implementing safety practices on site.
+        * Preparation of test reports and evaluate the Daily, Weekly & Monthly progress and generate the Report and communicate to Field Engineer.
 
 
         
